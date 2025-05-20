@@ -50,22 +50,3 @@ It was developed as part of the **Data Science Specialization** at **Symbiosis I
 ![image](https://github.com/user-attachments/assets/995e91ae-2d45-44b8-8750-b96df297fbf8)
 
 ---
-
-## 🧪 How to Use
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/PDS-Efficiency-Analysis.git
-   cd PDS-Efficiency-Analysis
-````
-
-2. **Open the Jupyter Notebook**:
-   Launch `PDS_India.ipynb` using Jupyter to follow the analysis workflow.
-
-3. **Explore the Power BI Dashboard**:
-   Open the `.pbix` file (`PDS_Efficiency_Dashboard.pbix`) in **Power BI Desktop** to interact with the dashboard.
-
-4. **Review the Final Report**:
-   Read `Public Distribution System India_Analysis.pdf` for detailed documentation and statistical findings.
-
----
