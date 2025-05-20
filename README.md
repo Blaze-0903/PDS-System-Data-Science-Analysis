@@ -1,9 +1,10 @@
-
 # 📊 Public Distribution System (PDS) Efficiency Analysis – India 🇮🇳
 
 ## 🔍 Project Overview
 
 This project presents a **comprehensive data science case study** analyzing the **allocation and distribution efficiency** of wheat and rice under India's **Public Distribution System (PDS)**. The goal is to identify operational inefficiencies, regional disparities, and predictive trends using statistical analysis, machine learning, and interactive dashboards.
+
+It was developed as part of the **Data Science Specialization** at **Symbiosis Institute of Technology**, under the guidance of [Dr. Piyush Chauhan](https://www.linkedin.com/in/piyush-chauhan-b5aa1544/) and [Amit Makode Sir](https://www.linkedin.com/in/amitmakode/), with special thanks to our Director [Prof. Dr. Nitin Rakesh](https://www.linkedin.com/in/dr-nitin-rakesh-67a4297a/) for including this course in the curriculum.
 
 ---
 
@@ -21,7 +22,7 @@ This project presents a **comprehensive data science case study** analyzing the 
 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
-- Power BI
+- Power BI Desktop (`.pbix`)
 - Excel
 - GitHub
 
@@ -32,43 +33,21 @@ This project presents a **comprehensive data science case study** analyzing the 
 ### 🔹 Overview View
 > Summary of allocation vs distribution, key KPIs, state-wise totals, and overall trends.
 
-![Overview View](images/overview_view.png)
+![image](https://github.com/user-attachments/assets/731d6814-3052-4649-a299-b6c21a34bdce)
 
 ---
 
 ### 🔹 Location View
 > State- and district-wise allocation vs distribution comparison with a monthly slicer.
 
-![Location View](images/location_view.png)
+![image](https://github.com/user-attachments/assets/f9aef689-3451-4036-a87a-80007647c3c5)
 
 ---
 
 ### 🔹 Time View
 > Quarterly efficiency of rice and wheat with filters by state and district.
 
-![Time View](images/time_view.png)
-
-> 📌 *Upload your screenshots to the `images/` folder and ensure the paths match above.*
-
----
-
-## 📁 Repository Structure
-
-```
-
-📂 PDS-Efficiency-Analysis
-├── 📊 PDS\_India.ipynb                  # Main Jupyter Notebook (Data Cleaning, EDA, Modeling)
-├── 📈 PDS\_data\_with\_efficiency.xlsx     # Cleaned dataset with efficiency metrics
-├── 🧾 PDS District Wise Monthly Wheat and Rice\_Sample\_Data.csv  # Raw sample dataset
-├── 📘 Public Distribution System India\_Analysis.pdf   # Full Business Analytics Report (PDF)
-├── 📊 BI Project.pdf                   # Power BI dashboard screenshots
-├── 📂 images/
-│   ├── overview\_view\.png              # Screenshot of Overview View
-│   ├── location\_view\.png              # Screenshot of Location View
-│   └── time\_view\.png                  # Screenshot of Time View
-├── 📄 README.md                        # Project documentation (this file)
-
-````
+![image](https://github.com/user-attachments/assets/995e91ae-2d45-44b8-8750-b96df297fbf8)
 
 ---
 
@@ -81,12 +60,12 @@ This project presents a **comprehensive data science case study** analyzing the 
 ````
 
 2. **Open the Jupyter Notebook**:
-   Use any Python IDE (like JupyterLab or VSCode) to explore the analysis step-by-step.
+   Launch `PDS_India.ipynb` using Jupyter to follow the analysis workflow.
 
 3. **Explore the Power BI Dashboard**:
-   Refer to the `BI Project.pdf` file or the image previews above.
+   Open the `.pbix` file (`PDS_Efficiency_Dashboard.pbix`) in **Power BI Desktop** to interact with the dashboard.
 
-4. **Read the PDF Report**:
-   Go through `Public Distribution System India_Analysis.pdf` for the complete business analytics documentation.
+4. **Review the Final Report**:
+   Read `Public Distribution System India_Analysis.pdf` for detailed documentation and statistical findings.
 
 ---
